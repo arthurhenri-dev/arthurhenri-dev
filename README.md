@@ -42,4 +42,8 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arthurhenri-dev/arthurhenri-dev/output/github-snake.svg" alt="Snake animation" />
+</div>
+
 ###
